@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chris
 
-<!--
-**Git-Merlyn/Git-Merlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student focused on building real-world full-stack applications.
 
-Here are some ideas to get you started:
+## Current Project
+- GripTrack — inventory system for film production crews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- React, Vite, Tailwind
+- Supabase (Auth, Postgres, Edge Functions)
+- REST APIs
+
+## Focus
+- SaaS product development
+- Real-world workflow systems
+- Clean, practical UI/UX
