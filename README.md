@@ -1,24 +1,23 @@
 # Hi, I'm Chris 
 
-Computer science student building full-stack applications focused on real-world workflows, automation, and scalable systems.
+I build full-stack apps that make complex workflows simpler and easier to manage.
 
 ## Current Project
-- GripTrack — Full-Stack Inventory Management Application  
-  → https://griptrack.app  
-  → https://github.com/Git-Merlyn/griptrack
+**GripTrack** - Inventory Management for Film Production  
+  * https://griptrack.app  
+  * https://github.com/Git-Merlyn/griptrack
 
-## Tech
+## Stack
 - React, Vite, Tailwind CSS  
 - Supabase (Postgres, Auth, Edge Functions)  
 - REST APIs  
 - Power BI, Power Automate  
 
 ## What I Build
-- Full-stack applications with real users and workflows  
-- Multi-tenant systems with secure access control (RLS)  
-- Data-driven tools and automation pipelines  
+- Full-stack apps used by real users
+- Tools that improve day-to-day workflows
+- Data management, analysis, and automation tools and pipelines  
 
-## Approach
-- Design systems around real-world constraints, not idealized models  
-- Prioritize clarity, usability, and maintainability  
-- Ship quickly and iterate based on real usage  
+## How I Work
+- I keep things simple and maintainable  
+- I ship, test, and iterate quickly  
