@@ -15,6 +15,7 @@ I build full-stack apps that make complex workflows simpler and easier to manage
 - Power BI, Power Automate  
 
 ## What I Build
-- Full-stack apps used by real users
+- Systems that handle messy, real-world data and workflows
 - Tools that improve day-to-day workflows
 - Data management, analysis, and automation tools and pipelines  
+- Some dabbling with reinforcement learning and ML experimentation
