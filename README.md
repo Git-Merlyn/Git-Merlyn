@@ -8,6 +8,7 @@ I build full-stack apps that make complex workflows simpler and easier to manage
   * https://github.com/Git-Merlyn/griptrack
 
 ## Stack
+- Python, JavaScript, Java, C, SQL
 - React, Vite, Tailwind CSS  
 - Supabase (Postgres, Auth, Edge Functions)  
 - REST APIs  
@@ -17,7 +18,3 @@ I build full-stack apps that make complex workflows simpler and easier to manage
 - Full-stack apps used by real users
 - Tools that improve day-to-day workflows
 - Data management, analysis, and automation tools and pipelines  
-
-## How I Work
-- I keep things simple and maintainable  
-- I ship, test, and iterate quickly  
